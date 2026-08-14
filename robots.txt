@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zvsii4.salamduit.xyz/sitemap.xml
